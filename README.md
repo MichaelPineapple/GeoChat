@@ -3,5 +3,4 @@ Android application written in Java which allows users to post text at their cur
 
 This was a project for Abertay University.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![screenshot](https://media.discordapp.net/attachments/701284862291607655/768236580385062932/Screenshot_1587244812.png?width=326&height=671)
