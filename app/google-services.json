@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903042022060",
+    "firebase_url": "https://abertayapp.firebaseio.com",
+    "project_id": "abertayapp",
+    "storage_bucket": "abertayapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903042022060:android:c72b2d77af48c851b23d09",
+        "android_client_info": {
+          "package_name": "michael.wilson.geochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903042022060-4c26gje2ic0dlb4105p2fot2t6cmnq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FnE3tdi6jo1aKEaXBdIjUvtqFMVGAsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903042022060-4c26gje2ic0dlb4105p2fot2t6cmnq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

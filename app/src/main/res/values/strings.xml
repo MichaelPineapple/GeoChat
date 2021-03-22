@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeoChat</string>
+    <string name="location_disabled">Please enable location.</string>
+    <string name="general_err">An unexpected error occurred.</string>
+    <string name="post_load_err">Error loading post.</string>
+    <string name="post_delete_err">Unable to delete post.</string>
+    <string name="post_delete_succ">Post deleted!</string>
+    <string name="post_create_err">Unable to create post.</string>
+    <string name="post_create_succ">Post created!</string>
+    <string name="firebase_connect_err">Unable to reach server.</string>
+    <string name="comment_err">Unable to add comment.</string>
+    <string name="comment_succ">Comment added</string>
+    <string name="butt_submit">SUBMIT</string>
+    <string name="butt_delete">DELETE</string>
+    <string name="butt_post">POST</string>
+    <string name="butt_allowlocation">ALLOW LOCATION</string>
+    <string name="txtbox_title">Title</string>
+    <string name="txtbox_body">Say what you need to say...</string>
+    <string name="txtbox_comment">Add a comment.</string>
+    <string name="txtview_permissionExplain">Location is required to use this app. Please press the button below to try again.</string>
+    <string name="default_title">(No Title)</string>
+    <string name="default_body">(No Body)</string>
+    <string name="default_texview">[textView]</string>
+</resources>
