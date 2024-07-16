@@ -5,7 +5,5 @@ Video Demonstration: https://www.youtube.com/watch?v=5bu8XsUCrRY
 
 This was a project for Abertay University.
 
-<img src="https://github.com/MichaelPineapple/GeoChat/blob/master/documentation/screenshot00.png" width=50% height=50%>
-
-![screenshot](https://github.com/MichaelPineapple/GeoChat/blob/master/documentation/screenshot00.png)
-![screenshot2](https://github.com/MichaelPineapple/GeoChat/blob/master/documentation/screenshot01.png)
+<img src="https://github.com/MichaelPineapple/GeoChat/blob/master/documentation/screenshot00.png" width=25% height=25%>
+<img src="https://github.com/MichaelPineapple/GeoChat/blob/master/documentation/screenshot01.png" width=25% height=25%>
